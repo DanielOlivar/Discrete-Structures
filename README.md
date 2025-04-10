@@ -19,5 +19,14 @@ This folder contains personal notes and summaries, which provide an overview and
 In this section, you'll find various homework assignments related to Discrete Structures. These tasks involve solving problems and exercises that help apply the theoretical knowledge gained from the labs and notes.
 
 
+---
 
+
+---
+
+### 👨‍💻 Author
+
+**Daniel Olivar**  
+Computer Engineer
+[GitHub: @DanielOlivar](https://github.com/DanielOlivar)
 
